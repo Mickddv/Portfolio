@@ -3,6 +3,8 @@
     border-color: antiquewhite;
 }
 
+
+
 #nav-container {
     background-clip: red;
 }
@@ -23,9 +25,21 @@
 } 
 
 body {
-    background:silver;
+    color:white;
+    background:black;
+    font-family: 'Orbitron', sans-serif;
+    
 }
 
+.link-1 {
+    padding: 13px;
+}
+.link-2 {
+    padding: 13px;
+}
+.link-3 {
+    padding: 13px;
+}
 
 
 
