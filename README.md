@@ -20,7 +20,7 @@ Deliverables:
 
 A README.md file with explanations of:
 ---------------------------------------------------------------------------------------------------
-- Technologies used:
+- Technologies used: HTML, CSS, 
 
 - Your process/approach:
 
