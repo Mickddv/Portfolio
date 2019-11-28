@@ -108,3 +108,26 @@ body {
     width: 100%;
     
 } 
+/* EXPERIMENT NAV */
+.scroll-nav {
+    /* background-color: rgb(0,0,0); Fallback color */
+    /* background-color: rgba(0,0,0,0.4); */
+    background-color: rgba(230, 69, 69, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    vertical-align: center;
+    /* border: 1px solid #f1f1f1; */
+    position: fixed; /* Stay fixed */
+    bottom: 88%;
+    left: 3%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 10px;
+    height: 6%;
+    padding: 4px;
+    text-align: center;
+    border-radius: 10%;
+  }
+
+ 
