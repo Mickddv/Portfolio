@@ -60,40 +60,42 @@ body {
     background-size: cover;
   }
   
-  /* Position text in the middle of the page/image */
+  /* Position NAV_BAR in the middle of the page/image */
+  /* Black w/opacity/see-through */
   .bg-text {
-    /* background-color: rgb(0,0,0); Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/opacity/see-through */
-    color: white;
+    /* background-color: rgba(0,0,0,0.4);  */
+    /* color: white;
     font-weight: bold;
     font-size: 20px;
-    /* border: 1px solid #f1f1f1; */
-    position: fixed; /* Stay fixed */
+     position: fixed; 
     top: 6%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 2;
     width: 98%;
     padding: 3px;
-    /* padding-top: 5%; */
-    text-align: center;
+    text-align: center; */
+/* padding-top: 5%; */
+ /* border: 1px solid #f1f1f1; */
   }
 
    /* Position scroll text  */
    .scroll-text {
     /* background-color: rgb(0,0,0); Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/opacity/see-through */
+    /* background-color: rgba(0,0,0,0.4); */
+    background-color: rgba(230, 69, 69, 0.4); 
     color: white;
     font-weight: bold;
     font-size: 10px;
-    border: 1px solid #f1f1f1;
+    /* border: 1px solid #f1f1f1; */
     position: fixed; /* Stay fixed */
-    bottom: 10%;
-    left: 50%;
+    bottom: 7%;
+    left: 3%;
     transform: translate(-50%, -50%);
     z-index: 2;
-    width: 3%;
-    padding: 4px;
+    width: 15px;
+    height: 20px;
+    padding: 1px;
     text-align: center;
     border-radius: 10%;
   }
@@ -112,7 +114,7 @@ body {
 .scroll-nav {
     /* background-color: rgb(0,0,0); Fallback color */
     /* background-color: rgba(0,0,0,0.4); */
-    background-color: rgba(230, 69, 69, 0.4); /* Black w/opacity/see-through */
+    background-color: rgba(230, 69, 69, 0.4); 
     color: white;
     font-weight: bold;
     font-size: 15px;
