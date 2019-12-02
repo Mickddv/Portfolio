@@ -1,37 +1,22 @@
 # Portfolio
 
-Deliverables:
-
-- A working site, built by you, hosted somewhere on the internet.
-
-- A Git repository, hosted on your personal GitHub, that includes a link to your hosted site and frequent commits dating back to the beginning of the project.
-
-- Will have links to Github, Linkedin, Contact Info
-
-- Will have a contact me form
-
-- Will have a Project Section that showcases projects and describes them.
-
-- Will have your resume available on site.
-
-- Keep it clean and simple.
 
 
-
-A README.md file with explanations of:
+A README.md file:
 ---------------------------------------------------------------------------------------------------
-- Technologies used: HTML, CSS, Bootstrap, 
+- Technologies used: HTML, CSS, Jquery,
 
-- Your process/approach:
+- Your process/approach: Design a site with a minalist theme in mind, no borders or outlines. 
 
-- Unsolved problems: 
+- Unsolved problems: ?
 
-- Your biggest wins and challenges:
+- Your biggest wins and challenges: Searching the web to learn how to add animation to my site. Finding free animation tools that anyone can use from MIT.
 
 - Screenshots of the snippets of code you used to solve particularly interesting problems think code highlights:
 
 
 
+- Animation usage License agreemnet.
 
 The MIT License (MIT)
 
