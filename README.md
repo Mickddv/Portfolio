@@ -18,7 +18,7 @@ A README.md file:
 
 
 
-[![solarized dualmode](https://i.imgur.com/q8axhjY.jpg)](#features)
+(https://i.imgur.com/q8axhjY.jpg)](#features)
 
 
 
