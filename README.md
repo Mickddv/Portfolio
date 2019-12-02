@@ -1,8 +1,7 @@
 # Portfolio
 
+[![solarized dualmode](https://i.imgur.com/q8axhjY.jpg)](#features)
 
-
-A README.md file:
 ---------------------------------------------------------------------------------------------------
 - Technologies used: HTML, CSS, Jquery,
 
@@ -18,7 +17,7 @@ A README.md file:
 
 
 
-(https://i.imgur.com/q8axhjY.jpg)](#features)
+
 
 
 
