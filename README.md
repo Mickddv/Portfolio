@@ -1,8 +1,7 @@
 # Portfolio
 
+[![solarized dualmode](https://i.imgur.com/q8axhjY.jpg)](#features)
 
-
-A README.md file:
 ---------------------------------------------------------------------------------------------------
 - Technologies used: HTML, CSS, Jquery,
 
@@ -10,9 +9,24 @@ A README.md file:
 
 - Unsolved problems: ?
 
-- Your biggest wins and challenges: Searching the web to learn how to add animation to my site. Finding free animation tools that anyone can use from MIT.
+- Your biggest wins and challenges: Searching to find out how you can add animation to a site. Finding free animation tools that anyone can use from MIT (https://daneden.github.io/animate.css/). 
 
 - Screenshots of the snippets of code you used to solve particularly interesting problems think code highlights:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
