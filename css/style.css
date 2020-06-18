@@ -1,26 +1,33 @@
-#nav-container {
-    background-clip: red;
-}
-.test {
-    position: 100vw;
-}
-.comfortaaLogo {
-    color: white;
-}
 body {
-    color:white;
-    background:rgb(27, 27, 27);
+    background:white;
     font-family: 'Orbitron', sans-serif;
+    margin: 0 auto;
+    /* max-width: 100em; */
 }
+
+#Lion {
+    width: 100%;
+    height: auto;
+}
+.black-divider {
+    width: 100%;
+    height: auto;
+}
+
+.comfortaaLogo {
+    color: chartreuse;
+}
+
 .link-1 {
-    padding: 13px;
+    padding: 25px;
 }
 .link-2 {
-    padding: 13px;
+    padding: 25px;
 }
 .link-3 {
-    padding: 13px;
+    padding: 25px;
 }
+
 .image-option {
     position:relative;
     widows: 100%;
@@ -31,6 +38,7 @@ body {
   width:100%;
   vertical-align:top;
 }
+
 .image-option:after {
     content:'\A';
     position:absolute;
@@ -44,12 +52,16 @@ body {
     -webkit-transition: all 0.9s;
 }
 .image-option:hover:after {
-    opacity: 0.9;;
+    opacity: 0.9;
 }
+
+/* .image-option:hover::before {
+    opacity: 0.9;
+} */
 
 .bg-image {
     /* Full height */
-    height: 75%;
+    /* height: 75%; */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,12 +71,12 @@ body {
 .scroll-text {
     /* background-color: rgb(0,0,0); Fallback color */
     /* background-color: rgba(0,0,0,0.4); */
-    background-color: rgba(230, 69, 69, 0.4); 
-    color: white;
+        /* border: 1px solid #f1f1f1; */
+    /* background-color: rgba(120, 230, 69, 0.4); 
+    color: black;
     font-weight: bold;
     font-size: 10px;
-    /* border: 1px solid #f1f1f1; */
-    position: fixed; /* Stay fixed */
+    position: fixed;
     bottom: 7%;
     left: 3%;
     transform: translate(-50%, -50%);
@@ -73,15 +85,16 @@ body {
     height: 20px;
     padding: 1px;
     text-align: center;
-    border-radius: 10%;
+    border-radius: 10%; */
 }
 
 .footer-container {
-    background-color: rgba(0,0,0,0.4); /* Black w/opacity/see-through */
+    background-color: white; /* Black w/opacity/see-through */
     /* background-color:rgb(253, 0, 0,0.8); */
     font-weight: bold;
     font-size: 15px;
-    padding: 15%;
+    /* padding: 1%, 0%, 0%, 0%; */
+    /* padding-top: 1%; */
     text-align: center;
     width: 100%;
     
@@ -90,24 +103,86 @@ body {
 .scroll-nav {
     /* background-color: rgb(0,0,0); Fallback color */
     /* background-color: rgba(0,0,0,0.4); */
-    background-color: rgba(230, 69, 69, 0.4); 
-    color: white;
+    /* background-color: #ff7f00;  */
+    /* color: white; */
     font-weight: bold;
     font-size: 15px;
     vertical-align: center;
-    /* border: 1px solid #f1f1f1; */
     position: fixed; /* Stay fixed */
     bottom: 88%;
-    left: 3%;
+    left: 1%;
     transform: translate(-50%, -50%);
     z-index: 2;
-    width: 10px;
+    width: 10%;
     height: 6%;
-    padding: 4px;
-    text-align: center;
-    border-radius: 10%;
+    text-align: right;
+    padding-left: 40%;
+    /* padding-right: 30%; */
+    /* border: 1px solid #f1f1f1; */
+    /* border-bottom: 1px solid #f1f1f1; */
+    /* border-radius: 10%; */
  }
 
- .card-img-top {
+ /* .card-img-top 
+ {
      padding: 3%;
- }
+ } */
+
+
+
+
+
+ /* #image {
+    width:100%;
+    vertical-align:top;
+    padding-top: 20%;
+  } */
+
+/* html {
+	width: 100vw;
+	max-width: 100%
+} */
+
+
+/* #nav-container {
+    background-clip: rgb(221, 210, 248);
+} */
+
+/* html::before {
+	content: '';
+	position: fixed;
+	z-index: 9999;
+	width: 100vw;
+	max-width: 100%;
+	height: 4px;
+	box-sizing: border-box;
+	background-color: orange;
+	pointer-events: none
+}
+
+html::after {
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+	width: 100vw;
+	max-width: 100%;
+	height: 100vh;
+	box-sizing: border-box;
+	border-width: 4px;
+	border-style: solid;
+	-o-border-image: linear-gradient(to bottom, orange, #ff4e00) 1 100%;
+	border-image: linear-gradient(to bottom, orange, #ff4e00) 1 100%;
+	pointer-events: none
+} */
+
+/* html.no-scroll {
+	overflow: hidden;
+	height: 100%
+} */
+
+
+/* .test {
+    position: 100vw;
+} */
